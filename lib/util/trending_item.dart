@@ -85,3 +85,4 @@ class _TrendingItemState extends State<TrendingItem> {
                         padding: EdgeInsets.all(4.0),
                         child: Text(
                           " OPEN",
+                          style: TextStyle(
