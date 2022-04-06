@@ -16,7 +16,7 @@ class TrendingItem extends StatefulWidget {
   }) : super(key: key);
 
   @override
-  _TrendingItemState createState() => _TrendingItem
+  _TrendingItemState createState() => _TrendingItemS
 
 
     
