@@ -24,7 +24,7 @@ class _TrendingItemState extends State<TrendingItem> {
   Widget build(BuildContext context) {
     return Padding(
       padding: EdgeInsets.only(top: 5.0, bottom: 5.0),
-      child
+      child:
           
          
          
