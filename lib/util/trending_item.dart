@@ -87,3 +87,4 @@ class _TrendingItemState extends State<TrendingItem> {
                           " OPEN",
                           style: TextStyle(
                             fontSize: 10.0,
+                            color: Colors.green,
