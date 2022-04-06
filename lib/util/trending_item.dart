@@ -50,4 +50,5 @@ class _TrendingItemState extends State<TrendingItem> {
                     ),
                   ),
                   Positioned(
-                    top: 6.
+                    top: 6.0,
+                    
