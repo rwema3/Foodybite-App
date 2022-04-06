@@ -25,7 +25,7 @@ class _TrendingItemState extends State<TrendingItem> {
     return Padding(
       padding: EdgeInsets.only(top: 5.0, bottom: 5.0),
       child: Container(
-        height: MediaQuery.of(con  
+        height: MediaQuery.of(co  
          
          
           
