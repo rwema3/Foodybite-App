@@ -120,3 +120,8 @@ class _TrendingItemState extends State<TrendingItem> {
                     "${widget.address}",
                     style: TextStyle(
                       fontSize: 12.0,
+                      fontWeight: FontWeight.w300,
+                    ),
+                  ),
+                ),
+              ),
