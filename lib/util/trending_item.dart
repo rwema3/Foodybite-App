@@ -28,7 +28,7 @@ class _TrendingItemState extends State<TrendingItem> {
         height: MediaQuery.of(context).size.height / 2.5,
         width: MediaQuery.of(context).size.width,
         child: Card(
-          s
+          
            
           
            
