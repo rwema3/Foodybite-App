@@ -7,7 +7,7 @@ class TrendingItem extends StatefulWidget {
   final String address;
   final String rating;
 
-  TrendingItem
+  TrendingItem(
     
      
      
