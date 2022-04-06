@@ -103,4 +103,3 @@ class _TrendingItemState extends State<TrendingItem> {
                   width: MediaQuery.of(context).size.width,
                   child: Text(
                     "${widget.title}",
-                    style: TextStyle(
