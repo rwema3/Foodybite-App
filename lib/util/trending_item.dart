@@ -60,3 +60,4 @@ class _TrendingItemState extends State<TrendingItem> {
                         child: Row(
                           children: <Widget>[
                             Icon(
+                              Icons.star,
