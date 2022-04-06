@@ -79,4 +79,3 @@ class _TrendingItemState extends State<TrendingItem> {
                     top: 6.0,
                     left: 6.0,
                     child: Card(
-                      shape: RoundedRectangleBorder(
