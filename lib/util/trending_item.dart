@@ -33,7 +33,7 @@ class _TrendingItemState extends State<TrendingItem> {
           elevation: 3.0,
           child: Column(
             children: <Widget>[
-              Stack
+              Stac
                 
                   
                     
