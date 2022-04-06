@@ -20,7 +20,7 @@ class TrendingItem extends StatefulWidget {
 }
 
 class _TrendingItemState extends State<TrendingItem> {
-  @
+  
      
      
          
