@@ -44,5 +44,4 @@ class _TrendingItemState extends State<TrendingItem> {
                         topRight: Radius.circular(10),
                       ),
                       child: Image.asset(
-                        "${widget.img}",
-                      
+                        "${widget.img}"
