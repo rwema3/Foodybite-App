@@ -19,7 +19,7 @@ class TrendingItem extends StatefulWidget {
   _TrendingItemState createState() => _TrendingItemState();
 }
 
-class _TrendingItemState extends State<Trend 
+class _TrendingItemState extends State<Trendi 
   
      
      
