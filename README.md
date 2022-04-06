@@ -1,10 +1,5 @@
-# 🍔Foodybite
+# 🍔Foodybite  📸 ScreenShots
 
-Star⭐ the repo if you like what you see😉.
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
-
-
-## 📸 ScreenShots
 
 ## ✨ Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
