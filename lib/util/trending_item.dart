@@ -29,7 +29,7 @@ class _TrendingItemState extends State<TrendingItem> {
         width: MediaQuery.of(context).size.width,
         child: Card(
           shape:
-              RoundedRectangleBorder(borderRadius: BorderRa
+              RoundedRectangleBorder(borderRadius: BorderRad
           
            
              
