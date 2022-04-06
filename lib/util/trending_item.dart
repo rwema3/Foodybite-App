@@ -101,4 +101,3 @@ class _TrendingItemState extends State<TrendingItem> {
                 padding: EdgeInsets.only(left: 15.0),
                 child: Container(
                   width: MediaQuery.of(context).size.width,
-                  child: Text(
