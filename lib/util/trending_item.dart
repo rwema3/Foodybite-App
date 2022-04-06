@@ -61,6 +61,3 @@ class _TrendingItemState extends State<TrendingItem> {
                           children: <Widget>[
                             Icon(
                               Icons.star,
-                              color: Constants.ratingBG,
-                              size: 10.0,
-                            ),
