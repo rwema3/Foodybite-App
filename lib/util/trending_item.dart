@@ -12,7 +12,7 @@ class TrendingItem extends StatefulWidget {
     @required this.img,
     @required this.title,
     @required this.address,
-    @required this.rat
+    @required this.ra
      
 
   
