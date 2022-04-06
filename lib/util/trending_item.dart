@@ -88,3 +88,11 @@ class _TrendingItemState extends State<TrendingItem> {
                           style: TextStyle(
                             fontSize: 10.0,
                             color: Colors.green,
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
+                      ),
+                    ),
+                  ),
+                ],
+              ),
