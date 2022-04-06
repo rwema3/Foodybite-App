@@ -9,7 +9,7 @@ class TrendingItem extends StatefulWidget {
 
   TrendingItem({
     Key key,
-    @r 
+    @ 
      
      
    
