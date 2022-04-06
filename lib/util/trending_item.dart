@@ -96,3 +96,4 @@ class _TrendingItemState extends State<TrendingItem> {
                   ),
                 ],
               ),
+              SizedBox(height: 7.0),
