@@ -34,7 +34,7 @@ class _TrendingItemState extends State<TrendingItem> {
           child: Column(
             children: <Widget>[
               Stack(
-                children: <Widget>[
+                children: <Widget>
                   
                     
                   
