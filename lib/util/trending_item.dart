@@ -58,3 +58,4 @@ class _TrendingItemState extends State<TrendingItem> {
                       child: Padding(
                         padding: EdgeInsets.all(2.0),
                         child: Row(
+                          children: <Widget>[
