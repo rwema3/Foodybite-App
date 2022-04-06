@@ -3,7 +3,7 @@ import 'package:flutter_foodybite/util/const.dart';
 
 class TrendingItem extends StatefulWidget {
   final String img;
-  
+  f
    
 
   
