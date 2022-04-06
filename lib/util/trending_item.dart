@@ -41,5 +41,5 @@ class _TrendingItemState extends State<TrendingItem> {
                     child: ClipRRect(
                       borderRadius: BorderRadius.only(
                         topLeft: Radius.circular(10),
-                        topRight: Radi
+                        topRight: Rad
                       
