@@ -65,4 +65,3 @@ class _TrendingItemState extends State<TrendingItem> {
                               size: 10.0,
                             ),
                             Text(
-                              " ${widget.rating} ",
