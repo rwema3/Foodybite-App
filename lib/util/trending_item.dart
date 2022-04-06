@@ -125,4 +125,3 @@ class _TrendingItemState extends State<TrendingItem> {
                   ),
                 ),
               ),
-              SizedBox(height: 10.0),
