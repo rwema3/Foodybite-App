@@ -49,3 +49,4 @@ class _TrendingItemState extends State<TrendingItem> {
                       ),
                     ),
                   ),
+          
