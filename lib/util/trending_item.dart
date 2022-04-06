@@ -82,3 +82,4 @@ class _TrendingItemState extends State<TrendingItem> {
                       shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(3.0)),
                       child: Padding(
+                        padding: EdgeInsets.all(4.0),
