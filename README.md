@@ -1,4 +1,15 @@
+<<<<<<< HEAD
 # 🍔Foodybite  📸 ScreenShots
+=======
+# 🍔Foodybite
+
+Star⭐ the repo if you like what you see😉.
+[![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
+
+
+## 📸 ScreenShots
+![Screenshot (30)](https://user-images.githubusercontent.com/52289151/161913889-288d6cca-b0db-4158-809c-10d6d405c23a.png)
+>>>>>>> 836fad0ee6bc48b840110e4aaf9957249c0b0620
 
 ## ✨ Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
