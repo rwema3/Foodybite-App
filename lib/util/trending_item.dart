@@ -47,5 +47,4 @@ class _TrendingItemState extends State<TrendingItem> {
                         "${widget.img}",
                         fit: BoxFit.cover,
                       ),
-                    ),
                 
