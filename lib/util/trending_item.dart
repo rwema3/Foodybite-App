@@ -36,7 +36,7 @@ class _TrendingItemState extends State<TrendingItem> {
               Stack(
                 children: <Widget>[
                   Container(
-                    height: MediaQuery.of(context).size.heigh
+                    height: MediaQuery.of(context).size.height
                   
                     
                        
