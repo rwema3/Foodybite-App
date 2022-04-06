@@ -13,7 +13,7 @@ class TrendingItem extends StatefulWidget {
     @required this.title,
     @required this.address,
     @required this.rating,
-  }) :  
+  }) : s 
 
   
      
