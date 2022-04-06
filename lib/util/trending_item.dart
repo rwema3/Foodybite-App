@@ -48,4 +48,4 @@ class _TrendingItemState extends State<TrendingItem> {
                         fit: BoxFit.cover,
                       ),
                     ),
-                  
+                  )
