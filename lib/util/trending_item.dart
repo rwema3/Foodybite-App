@@ -40,6 +40,5 @@ class _TrendingItemState extends State<TrendingItem> {
                     width: MediaQuery.of(context).size.width,
                     child: ClipRRect(
                       borderRadius: BorderRadius.only(
-                        topLeft: Radius.circular(10),
-              
+                        topLeft: Radius.circular(10
                       
