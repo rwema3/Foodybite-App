@@ -86,4 +86,3 @@ class _TrendingItemState extends State<TrendingItem> {
                         child: Text(
                           " OPEN",
                           style: TextStyle(
-                            fontSize: 10.0,
