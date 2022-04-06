@@ -42,5 +42,4 @@ class _TrendingItemState extends State<TrendingItem> {
                       borderRadius: BorderRadius.only(
                         topLeft: Radius.circular(10),
                         topRight: Radius.circular(10),
-                      ),
                       
