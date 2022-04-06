@@ -27,7 +27,7 @@ class _TrendingItemState extends State<TrendingItem> {
       child: Container(
         height: MediaQuery.of(context).size.height / 2.5,
         width: MediaQuery.of(context).size.width,
-        ch 
+        chi 
           
            
           
