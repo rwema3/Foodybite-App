@@ -11,7 +11,7 @@ class TrendingItem extends StatefulWidget {
     Key key,
     @required this.img,
     @required this.title,
-    @required this.addr
+    @required this.addre
    
      
 
