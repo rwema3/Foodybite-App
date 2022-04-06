@@ -35,7 +35,7 @@ class _TrendingItemState extends State<TrendingItem> {
             children: <Widget>[
               Stack(
                 children: <Widget>[
-                  Conta
+                  Contai
                     
                   
                     
