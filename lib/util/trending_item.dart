@@ -104,4 +104,3 @@ class _TrendingItemState extends State<TrendingItem> {
                   child: Text(
                     "${widget.title}",
                     style: TextStyle(
-                      fontSize: 20.0,
