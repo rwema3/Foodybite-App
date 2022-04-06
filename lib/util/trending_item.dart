@@ -83,3 +83,5 @@ class _TrendingItemState extends State<TrendingItem> {
                           borderRadius: BorderRadius.circular(3.0)),
                       child: Padding(
                         padding: EdgeInsets.all(4.0),
+                        child: Text(
+                          " OPEN",
