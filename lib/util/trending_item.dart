@@ -112,5 +112,3 @@ class _TrendingItemState extends State<TrendingItem> {
                 ),
               ),
               SizedBox(height: 7.0),
-              Padding(
-                padding: EdgeInsets.only(left: 15.0),
