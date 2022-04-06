@@ -23,7 +23,7 @@ class _TrendingItemState extends State<TrendingItem> {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      pad   
+      pa   
       
           
          
