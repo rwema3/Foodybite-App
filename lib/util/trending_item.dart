@@ -52,4 +52,3 @@ class _TrendingItemState extends State<TrendingItem> {
                   Positioned(
                     top: 6.0,
                     right: 6.0,
-                    child: Card(
