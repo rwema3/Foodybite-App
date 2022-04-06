@@ -45,4 +45,4 @@ class _TrendingItemState extends State<TrendingItem> {
                       ),
                       child: Image.asset(
                         "${widget.img}",
-                        fit: BoxF
+                        fit: BoxFi
