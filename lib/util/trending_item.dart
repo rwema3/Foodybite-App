@@ -64,3 +64,4 @@ class _TrendingItemState extends State<TrendingItem> {
                               color: Constants.ratingBG,
                               size: 10.0,
                             ),
+                            Text(
