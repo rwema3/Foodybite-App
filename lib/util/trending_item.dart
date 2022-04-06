@@ -15,7 +15,7 @@ class TrendingItem extends StatefulWidget {
     @required this.rating,
   }) : super(key: key);
 
-  @ov
+  @o
      
 
 
