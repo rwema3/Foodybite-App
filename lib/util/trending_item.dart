@@ -57,4 +57,3 @@ class _TrendingItemState extends State<TrendingItem> {
                           borderRadius: BorderRadius.circular(4.0)),
                       child: Padding(
                         padding: EdgeInsets.all(2.0),
-                        child: Row(
