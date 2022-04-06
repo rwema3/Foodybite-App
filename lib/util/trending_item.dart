@@ -107,3 +107,7 @@ class _TrendingItemState extends State<TrendingItem> {
                       fontSize: 20.0,
                       fontWeight: FontWeight.w800,
                     ),
+                    textAlign: TextAlign.left,
+                  ),
+                ),
+              ),
