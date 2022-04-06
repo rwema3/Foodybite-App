@@ -8,7 +8,7 @@ class TrendingItem extends StatefulWidget {
   final String rating;
 
   TrendingItem({
-    Key 
+    Key k
      
      
      
