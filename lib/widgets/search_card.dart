@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+import 'package:flutter/material.dart';
 class SearchCard extends StatelessWidget {
   final TextEditingController _searchControl = new TextEditingController();
 
@@ -9,7 +9,7 @@ class SearchCard extends StatelessWidget {
       elevation: 6.0,
       child: Container(
         decoration: BoxDecoration(
-          color: Colors.white,
+          color: Colors.greeen,
           borderRadius: BorderRadius.all(
             Radius.circular(5.0),
           ),
