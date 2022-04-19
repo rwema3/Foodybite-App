@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a364a97e-3565-46e3-a7c7-0a38520b4813" name="Default Changelist" comment="" />
+    <list default="true" id="a364a97e-3565-46e3-a7c7-0a38520b4813" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Foodybite-App.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Foodybite-App.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
