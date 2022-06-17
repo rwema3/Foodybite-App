@@ -1,3 +1,4 @@
+  Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: Constants.appName,
