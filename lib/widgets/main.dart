@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_foodybite/screens/main_screen.dart';
-import 'package:flu
+import 'package:flutter_foodybite/util/const.dart';
+
 void main() async {
   runApp(MyApp());
 }
