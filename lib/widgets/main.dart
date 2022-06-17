@@ -1,4 +1,3 @@
-}
 
 class MyApp extends StatefulWidget {
   @override
